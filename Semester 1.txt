@@ -2,3 +2,5 @@ Semester 1
 - Alprog
 - SO
 - Matematika
+- Ptik
+- Jarkom
