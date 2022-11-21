@@ -1,4 +1,7 @@
 Assigment
 Pengkondisian
+- Satu kondisi
+- Dua kondisi
+- Lebih dari dua kondisi
 Perulangan
 Fungsi dan Prosedur
